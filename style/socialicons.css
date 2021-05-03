@@ -1,0 +1,311 @@
+/* ----------------- SOCIAL MEDIA SECTION -----------  */
+
+#social-media
+{
+    background-color: #ececec;
+    padding: 100px 0 0 0 ;
+}
+#social-media p
+{
+    font-size: 36px;
+    font-weight: 500;
+}
+.social-icons
+{
+    margin-top: 60px;
+    margin-inline: 35%;
+}
+.social-icons img
+{
+    margin-inline: 1%;
+    width: 50px;
+    transition: 0.5s;
+    margin-bottom: 100px;
+}
+.social-icons a:hover img
+{
+    transform: translateY(-10px);
+}
+
+@media (max-width:1220px){
+
+    .social-icons
+    {
+        margin-inline: 34%;
+    }
+}
+@media (max-width:1144px){
+
+    .social-icons
+    {
+        margin-inline: 33%;
+    }
+}
+@media (max-width:1077px){
+
+    .social-icons
+    {
+        margin-inline: 32%;
+    }
+}
+@media (max-width:1016px){
+
+    .social-icons
+    {
+        margin-inline: 31%;
+    }
+}
+@media (max-width:963px){
+
+    .social-icons
+    {
+        margin-inline: 30%;
+    }
+}
+@media (max-width:915px){
+
+    .social-icons
+    {
+        margin-inline: 29%;
+    }
+}
+@media (max-width:871px){
+
+    .social-icons
+    {
+        margin-inline: 28%;
+    }
+}
+@media (max-width:832px){
+
+    .social-icons
+    {
+        margin-inline: 27%;
+    }
+}
+@media (max-width:795px){
+
+    .social-icons
+    {
+        margin-inline: 26%;
+    }
+}
+@media (max-width:762px){
+
+    .social-icons
+    {
+        margin-inline: 25%;
+    }
+}
+@media (max-width:732px){
+
+    .social-icons
+    {
+        margin-inline: 24%;
+    }
+}
+@media (max-width:704px){
+
+    .social-icons
+    {
+        margin-inline: 23%;
+    }
+}
+@media (max-width:677px){
+
+    .social-icons
+    {
+        margin-inline: 22%;
+    }
+}
+@media (max-width:653px){
+
+    .social-icons
+    {
+        margin-inline: 21%;
+    }
+}
+@media (max-width:631px){
+
+    .social-icons
+    {
+        margin-inline: 20%;
+    }
+}
+@media (max-width:610px){
+
+    .social-icons
+    {
+        margin-inline: 19%;
+    }
+}
+@media (max-width:590px){
+
+    .social-icons
+    {
+        margin-inline: 18%;
+    }
+}
+@media (max-width:572px){
+
+    .social-icons
+    {
+        margin-inline: 17%;
+    }
+}
+@media (max-width:554px){
+
+    .social-icons
+    {
+        margin-inline: 16%;
+    }
+}
+@media (max-width:538px){
+
+    .social-icons
+    {
+        margin-inline: 15%;
+    }
+}
+@media (max-width:522px){
+
+    .social-icons
+    {
+        margin-inline: 14%;
+    }
+}
+@media (max-width:508px){
+
+    .social-icons
+    {
+        margin-inline: 13%;
+    }
+}
+@media (max-width:494px){
+
+    .social-icons
+    {
+        margin-inline: 12%;
+    }
+}
+@media (max-width:481px){
+
+    .social-icons
+    {
+        margin-inline: 11%;
+    }
+}
+@media (max-width:470px){
+
+    .social-icons
+    {
+        margin-inline: 17%;
+    }
+    .social-icons img
+    {
+        width: 40px;
+    }
+}
+@media (max-width:451px){
+
+    .social-icons
+    {
+        margin-inline: 16%;
+    }
+}
+@media (max-width:438px){
+
+    .social-icons
+    {
+        margin-inline: 15%;
+    }
+}
+@media (max-width:425px){
+
+    .social-icons
+    {
+        margin-inline: 14%;
+    }
+}
+@media (max-width:413px){
+
+    .social-icons
+    {
+        margin-inline: 13%;
+    }
+}
+@media (max-width:402px){
+
+    .social-icons
+    {
+        margin-inline: 12%;
+    }
+}
+@media (max-width:392px){
+
+    .social-icons
+    {
+        margin-inline: 11%;
+    }
+}
+@media (max-width:381px){
+
+    .social-icons
+    {
+        margin-inline: 10%;
+    }
+}
+@media (max-width:372px){
+
+    .social-icons
+    {
+        margin-inline: 8%;
+    }
+}
+@media (max-width:354px){
+
+    .social-icons
+    {
+        margin-inline: 6%;
+    }
+}
+@media (max-width:338px){
+
+    .social-icons
+    {
+        margin-inline: 4%;
+    }
+}
+@media (max-width:324px){
+
+    .social-icons
+    {
+        margin-inline: 2%;
+    }
+}
+@media (max-width:310px){
+
+    .social-icons
+    {
+        margin-inline: 27%;
+    }
+    .social-icons img
+    {
+        width: 28%;
+        margin: 2px;
+    }
+}
+@media (max-width:283px){
+
+    .social-icons
+    {
+        margin-inline: 15%;
+    }
+}
+@media (max-width:186px){
+
+    .social-icons
+    {
+        margin-inline: 5%;
+    }
+}
