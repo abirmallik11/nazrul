@@ -1,2 +1,0 @@
-# nazrul
-first-atempt
