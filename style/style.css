@@ -287,6 +287,7 @@ body
     color: white;
     text-align: center;
     position: relative;
+    border-radius: 15px;
 }
 
 .line
@@ -344,6 +345,109 @@ body
     }
 }
 
+/* ---------contact form----------- */
+
+#contact
+{
+    padding: 50px 0px;
+    background-color: #F8F9FA;
+}
+.contact-us
+{
+    width: 33%;
+    margin: 0px 0px 0px 8px;
+    padding: 58px 30px 40px 50px;
+    color: white;
+    background-color: transparent;
+    background: linear-gradient(250deg, #4E95ED 0%, #03228F 100%);
+    border-radius: 15px;
+    
+}
+.contact-info
+{
+    margin-top: 20px;
+}
+.icon-left
+{
+    font-size: 21px;
+    margin-right: 23px !important;
+    margin-bottom: 20px;
+    padding: 13px;
+    border-radius: 50%;
+    background-color: white;
+    color: blue;
+    float: left;
+}
+.map
+{
+    padding: 13px 15px;
+}
+.contact-form
+{
+    width: 55%;
+    padding-left: 50px;
+}
+.contact-form h1
+{
+    margin-bottom: 1rem;
+}
+.contact-form form
+{
+    margin-top: 40px;
+}
+.form-control
+{
+    background: white;
+    outline: none;
+    border: none;
+    border-bottom: 1px solid grey;
+    color: black;
+    font-size: 18px;
+    margin-bottom: 16px;
+}
+.submit
+{
+    background: #ff5722;
+    border-color: transparent;
+    color: #fff;
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    height: 50px;
+}
+.submit:hover
+{
+    background: #f44336;
+    cursor: pointer;
+}
+@media (max-width:1199px){
+
+    .icon-left
+    {
+        float: none;
+        margin-bottom: 5px;
+    }
+
+}
+@media (max-width:991px)
+{
+    .contact-us
+    {
+        width: 40%;
+    }
+}
+@media (max-width:767px){
+
+    .contact-us
+    {
+        width: 100%;
+    }
+    .contact-form
+    {
+        width: 100%;
+        margin-top: 5%;
+    }
+}
 /* -----------------social media ------------  */
 
 /* css is on  socialicos.css file */
