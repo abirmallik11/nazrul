@@ -441,11 +441,14 @@ body
     .contact-us
     {
         width: 100%;
+        margin: 0;
     }
     .contact-form
     {
         width: 100%;
-        margin-top: 5%;
+        margin-top: 70px;
+        padding: 30px;
+
     }
 }
 /* -----------------social media ------------  */
