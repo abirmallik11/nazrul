@@ -312,7 +312,7 @@ body
 }
 .btn-primary
 {
-    width: 33.3%;
+    width: 41%;
     position: relative;
     top: 20px;
 }
@@ -341,7 +341,14 @@ body
     {
         width: 100%;
         margin: 50px 0;
-        
+    }
+}
+@media (max-width:575px){
+
+    .price
+    {
+        width: 95%;
+        margin: 0 auto;
     }
 }
 
@@ -449,6 +456,14 @@ body
         margin-top: 70px;
         padding: 30px;
 
+    }
+}
+@media (max-width:575px){
+
+    .contact-us
+    {
+        width: 95%;
+        margin: 0 auto;
     }
 }
 /* -----------------social media ------------  */
